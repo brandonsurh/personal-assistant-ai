@@ -1,6 +1,6 @@
 # Personal Assistant AI
 
-Welcome to the **Personal Assistant AI** repository! This AI chatbot is powered by OpenAI's GPT-3.5, allowing you to have engaging and fun conversations just by speaking to it. This chatbot will not only listen to your commands but also speak back to you! Built with Python 3 and Flask, it's a powerful and entertaining assistant that's easy to set up and use.
+Welcome to the **Personal Assistant AI** repository! This AI chatbot is powered by OpenAI's GPT-3.5, allowing you to have engaging and fun conversations just by speaking to it. This chatbot will not only listen to your queries but also speak back to you! Built with Python 3 and Flask, it's a powerful and entertaining assistant that's easy to set up and use.
 
 ## Table of Contents
 - [Features](#features)
