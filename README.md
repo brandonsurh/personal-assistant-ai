@@ -37,6 +37,32 @@ Welcome to the **Personal Assistant AI** repository! This AI chatbot is powered 
 `pip install openai`
 
 
+5. Obtain and set up your OpenAI API Key:
+
+- If you don't have an OpenAI account, sign up at [OpenAI](https://beta.openai.com/signup).
+- Once you have an account, go to the [API Keys section](https://beta.openai.com/account/api-keys) in your OpenAI Dashboard.
+- Click on "Create API Key" and copy the generated key.
+
+**Important:** Make sure to keep your API key private, as it grants access to your OpenAI account and should not be shared publicly.
+
+- To set the API key as an environment variable on your local machine, follow the steps for your operating system:
+
+  - **Windows:**
+    ```
+    setx OPENAI_API_KEY "your_api_key_here"
+    ```
+
+  - **macOS/Linux:**
+    ```
+    echo 'export OPENAI_API_KEY="your_api_key_here"' >> ~/.bashrc
+    source ~/.bashrc
+    ```
+    For other shell environments, such as `zsh`, add the export line to the appropriate configuration file, like `~/.zshrc`.
+
+Now your API key is set as an environment variable and can be accessed in the code using `os.environ["OPENAI_API_KEY"]`. This ensures the key remains private and is not included in the public GitHub repository.
+
+
+
 ## Running the Application
 1. Open a terminal and navigate to the repository folder.
 2. If you haven't activated the virtual environment, do so now (see the installation instructions above).
