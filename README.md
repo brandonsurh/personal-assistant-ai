@@ -34,6 +34,7 @@ Welcome to the **Personal Assistant AI** repository! This AI chatbot is powered 
 
 4. Install the required packages:
 `pip install flask`
+`pip install openai`
 
 
 ## Running the Application
