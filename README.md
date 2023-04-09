@@ -26,14 +26,14 @@ Welcome to the **Personal Assistant AI** repository! This AI chatbot is powered 
 
 `git clone https://github.com/brandonsurh/personal-assistant-ai.git`
 
-2. Navigate to the cloned repository folder:
+2. Navigate to the cloned repository folder with cmd:
 
 `cd personal-assistant-ai`
 
 3. Install Python 3 if you haven't already. You can download the latest version of Python [here](https://www.python.org/downloads/).
 
 4. Install the required packages:
-`pip install -r requirements.txt`
+`pip install flask
 
 
 ## Running the Application
