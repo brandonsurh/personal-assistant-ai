@@ -33,7 +33,7 @@ Welcome to the **Personal Assistant AI** repository! This AI chatbot is powered 
 3. Install Python 3 if you haven't already. You can download the latest version of Python [here](https://www.python.org/downloads/).
 
 4. Install the required packages:
-`pip install flask
+`pip install flask`
 
 
 ## Running the Application
